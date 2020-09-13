@@ -1,0 +1,3 @@
+C:/Users/User/github/C++/intro_and_foundations/cmake-build-debug/CMakeFiles/intro_and_foundations.dir
+C:/Users/User/github/C++/intro_and_foundations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/github/C++/intro_and_foundations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
